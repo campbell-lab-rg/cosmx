@@ -1,7 +1,7 @@
 # Export data from AtoMx to SFTP server
 After logging into AtoMx, your home screen should contain the "Collections" corresponding to your projects. Each slide analyzed is called a "Study."
 
-![](_img/Pasted image 20241227055056.png?raw=true)
+![Image1](./_img/Pasted\ image\ 20241227055056.png)
 
 You can select your "Collection" by clicking on its title. The example for this case is "KC_4CosMx_S-24-2061." This will open you up to the list of corresponding "Studies" (slides).
 ![[Pasted image 20241227055252.png]]
